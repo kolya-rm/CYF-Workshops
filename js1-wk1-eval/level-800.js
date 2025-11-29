@@ -8,3 +8,5 @@ const updatedPost = post.replaceAll('Facebook','Meta');
 
 // Use documentation to work out what updatedPost will evaluate to.
 // Don't run any code for this task
+
+//This function return string where all words 'Facebook' replaced by 'Meta'.
