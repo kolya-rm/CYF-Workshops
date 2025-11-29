@@ -8,9 +8,19 @@
 // c) -0.34
 // d) -8.921
 
+// a) 10 10
+// b) 170 170
+// c) 0 -1
+// d) -8 9
+
 // Part 2: Use the Node REPL to check your answers to Part 1)
+
+// a) 10 10
+// b) 170 170
+// c) -0 -1
+// d) -8 -9
+
 // Part 3: Using Part 2, explain the difference between Math.trunc() and Math.floor() in your own words
 
-
-
-
+Math.trunc() returns the integer part of the given parameter and 
+Math.floor() returns the first integer number before the given parameter.
